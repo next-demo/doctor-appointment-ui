@@ -1,0 +1,51 @@
+.doc{
+    margin-left: 400px;
+}
+.hui{
+    margin-left: 430px;
+    margin-top: 20px;
+    width: 300px;
+    height:300px
+}
+.parent {   
+    margin: 30px;
+    width: 70%;
+    height: 150px;
+    background-color: #e6e9f0;
+    border-radius: 15px;
+    padding: 15px;
+  }
+  .rupees{
+    margin-top: 38px;
+    margin-left: 100px;
+    font-weight: bold;
+    font-size: 25px;
+    
+  } 
+ 
+
+  .time {
+   margin-top: 20px;
+   margin-left: 100px;
+  }
+  
+  .viewAll {
+    margin-top: 15px;
+    margin-left: 150px;
+    width: 100px;
+    height: 40px;
+    border-radius: 27px;
+    color: rgb(118, 118, 123);
+    font-weight: bold;
+    border-color: rgb(13, 13, 15);
+    background-color: lightblue;
+    cursor: pointer;
+  }
+  .viewAll:hover {
+    transform: scale(1.2);
+  }
+  .img{
+    margin-left: 20px;
+    width: 120px;
+    height: 120px;
+  }

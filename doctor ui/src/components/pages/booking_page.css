@@ -1,0 +1,18 @@
+.booking-cnfrm{
+    height:auto; width:1200px; box-shadow: 0 0 22px 10px #2f309db8;
+}
+.success{
+    height: 150px!important;
+    width: 200px!important;
+}
+.logo{
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;;
+}
+.doc-det{
+    background-color: gray;
+}
+.cards{
+    display: flex;
+}
